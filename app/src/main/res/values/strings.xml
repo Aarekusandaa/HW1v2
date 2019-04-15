@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HW1B21</string>
+    <string name="action_settings">Settings</string>
+    <string name="RB1">John Doe</string>
+    <string name="RB2">Jakub Anonimowy</string>
+    <string name="RB3">Jane Doe</string>
+    <string name="RB4">Krystyna Kowalska</string>
+    <string name="RB5">Jan Kowalski</string>
+    <string name="CCACancel">Cancel</string>
+    <string name="CCAOK">OK</string>
+    <string name="current_contact">John Doe</string>
+    <string name="change_contact">Change Contact</string>
+    <string name="change_sound">Change Sound</string>
+    <string name="back_message">Error</string>
+    <string-array name="sounds">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+        <item>Sound 4</item>
+        <item>Sound 5</item>
+        <item>Mario</item>
+    </string-array>
+</resources>
